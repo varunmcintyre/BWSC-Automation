@@ -1,4 +1,4 @@
-This repository contains the two Python automation projects I worked on at the Boston Water and Sewer Commission. I used the ArcPy library to convert geoprocessing tasks into single lines of Python code, which creates a reusable script for future use.
+This repository contains the automation projects I worked on at the Boston Water and Sewer Commission. For the Python projects, I used the ArcPy library to convert geoprocessing tasks into Python code, which created reusable scripts for future use.
 
 **StormwaterParcels** was a small project that identified land parcels with building footprints to be used for stormwater billing.
 
