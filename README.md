@@ -4,4 +4,4 @@ This repository contains the two Python automation projects I worked on at the B
 
 **UpdateLocator** was the largest automation project I worked on, it converted 12 pages of manual steps to update BWSC's internal locator tool into one, reusable Python script.
  
-This repository does not include my ModelBuilder automation project, which located and labeled lead pipes in Boston.
+**LeadServiceModel** is a ModelBuilder automation that located and labeled lead water service pipes in Boston with a point layer. The document **LeadModelSteps** provides step by step instructions on how I created the model and how it can be replicated.
